@@ -1,2 +1,2 @@
 FROM nginx
-COPY index.hmtl /usr/share/nginx/html
+COPY index.html /usr/share/nginx/html
